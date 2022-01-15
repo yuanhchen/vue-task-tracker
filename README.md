@@ -17,15 +17,15 @@ npm run backend
 npm run serve
 ```
 
-> The image below shows the home page of this app
-> Each task can be deleted by clicking on the red X on the right of the UI
-> Double click on a task to toggle its reminder (shows a green vertical bar on the left of task)
-> Navigate to the about page 
+> * The image below shows the home page of this app
+> * Each task can be deleted by clicking on the red X on the right of the UI
+> * Double click on a task to toggle its reminder (shows a green vertical bar on the left of task)
+> * Navigate to the about page 
 
 ![homepage](./screen-shot/home.png)
 
-> The image below shows the add task page of this app
-> New task can be added by clicking the 'save task' button after filling the form
+> * The image below shows the add task page of this app
+> * New task can be added by clicking the 'save task' button after filling the form
 
 ![addpage](./screen-shot/add-task.png)
 
